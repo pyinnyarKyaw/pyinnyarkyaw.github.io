@@ -1,5 +1,3 @@
-<h1>Pyinnyar Kyaw</h1>
-
 <h2>Projects:</h2>
   - [2D Java Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
   - [Python Pong Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
