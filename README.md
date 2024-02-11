@@ -1,8 +1,7 @@
 <h1>Pyinnyar Kyaw</h1>
 
 <h2>Projects:</h2>
-  - <b>2D Java Game: </b> (https://github.com/pyinnyarKyaw/2D-Java-Game)
-  - <b>Python Pong Game: </b> (https://github.com/pyinnyarKyaw/2D-Java-Game)
+  - [2D Java Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
   - [Python Pong Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
   - [Bike Share System Database](https://github.com/pyinnyarKyaw/2D-Java-Game)
 
