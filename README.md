@@ -1,7 +1,10 @@
 <h1>Pyinnyar Kyaw</h1>
 
 <h2>Projects:</h2>
-  - [2D Java Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
+  - <b>2D Java Game: </b> (https://github.com/pyinnyarKyaw/2D-Java-Game)
+  - <b>Python Pong Game: </b> (https://github.com/pyinnyarKyaw/2D-Java-Game)
+  - [Python Pong Game](https://github.com/pyinnyarKyaw/2D-Java-Game)
+  - [Bike Share System Database](https://github.com/pyinnyarKyaw/2D-Java-Game)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
