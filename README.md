@@ -4,4 +4,5 @@
   - [Bike Share System Database](https://github.com/pyinnyarKyaw/Bike-Share-Database)
   - [JS Technical Documentation built with HTML/CSS](https://github.com/pyinnyarKyaw/JavaScript-Technical-Documentation-Page)
   - [Web Scraping with BeautifulSoup](https://github.com/pyinnyarKyaw/WebScraping-BeautifulSoup)
-  <!-- - [Money transfer mobile app](https://github.com/pyinnyarKyaw/2D-Java-Game) -->
+  - [Smart watch software design](https://github.com/pyinnyarKyaw/Smart-Watch-Software-Design)
+  <!-- - [Mock money transfer mobile app demo](https://github.com/pyinnyarKyaw/2D-Java-Game) -->
