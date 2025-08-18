@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pyinnyar Kyaw — Portfolio</title>
+  <meta name="description" content="Projects by Pyinnyar Kyaw" />
+  <style>
+    :root{
+      --bg: #0b0c10; --card:#111317; --text:#e8eaf0; --muted:#aab1c5; --accent:#7aa2ff; --ring:#2a5fff33;
+    }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#f7f8fc; --card:#ffffff; --text:#0e1320; --muted:#5b657a; --accent:#2a5fff; --ring:#2a5fff22; }
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Apple Color Emoji","Segoe UI Emoji";}
+    .wrap{max-width:900px;margin:auto;padding:32px 20px 56px}
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:28px}
+    .title{font-weight:800;letter-spacing:.2px;font-size:clamp(22px,3vw,28px)}
+    .tag{color:var(--muted);font-size:14px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+    .card{background:var(--card);border:1px solid #ffffff10;border-radius:16px;padding:18px;transition:.2s transform,.2s box-shadow,.2s border-color;box-shadow:0 6px 18px #00000025}
+    .card:hover{transform:translateY(-2px);border-color:var(--ring);box-shadow:0 10px 26px #00000035}
+    .card a{color:var(--text);text-decoration:none;display:block}
+    .card h3{margin:0 0 8px;font-size:18px;line-height:1.35}
+    .card p{margin:0;color:var(--muted);font-size:14px}
+    footer{margin-top:34px;color:var(--muted);font-size:14px}
+    .pill{display:inline-flex;align-items:center;gap:6px;background:linear-gradient( to right, #2a5fff22, #2a5fff11 );border:1px solid var(--ring);padding:6px 10px;border-radius:999px;font-size:12px}
+    .list{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <div class="title">Pyinnyar Kyaw</div>
+        <div class="tag">Portfolio</div>
+      </div>
+    </header>
+
+    <h2 style="margin:10px 0 14px;">Projects</h2>
+    <div class="grid">
+
+      <article class="card">
+        <a href="https://github.com/rijul04/KoiiV2" target="_blank" rel="noopener">
+          <h3>Decentralized web scraping &amp; data visualization tool</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="https://github.com/pyinnyarKyaw/Unity-Ball-Control-With-Arduino-Controller" target="_blank" rel="noopener">
+          <h3>Arduino gyroscopic controller for Unity ball game</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="https://github.com/pyinnyarKyaw/Arduino-Drone" target="_blank" rel="noopener">
+          <h3>Arduino drone</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="#" onclick="return false;">
+          <h3>OpenCV webcam AI assistant</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="https://github.com/Namgyal-Norbu/Cloud-Computing" target="_blank" rel="noopener">
+          <h3>Cloud-based document encryption site</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="https://github.com/Pyinnyar-Kyaw/Games-Tech-Asteroids-CW" target="_blank" rel="noopener">
+          <h3>C++ Asteroids game</h3>
+        </a>
+      </article>
+
+      <article class="card">
+        <a href="https://github.com/pyinnyarKyaw/Lancaster-Software-Systems" target="_blank" rel="noopener">
+          <h3>Restaurant Software Systems</h3>
+        </a>
+      </article>
+
+    </div>
+
+    <footer>
+      <div class="list">
+        <span>© <script>document.write(new Date().getFullYear())</script> Pyinnyar Kyaw</span>
+        <span>•</span>
+        <a href="https://github.com/pyinnyarKyaw" target="_blank" rel="noopener" style="color:inherit">GitHub</a>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
